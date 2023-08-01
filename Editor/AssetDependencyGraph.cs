@@ -8,7 +8,7 @@ using UnityEngine;
 
 // ReSharper disable once IdentifierTypo
 
-namespace Neuston.AssetDependencyGraph
+namespace Neuston
 {
 	public class AssetDependencyGraph
 	{
