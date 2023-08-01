@@ -1,0 +1,11 @@
+{
+  "name": "io.neuston.assetdependencygraph",
+  "displayName": "Asset Dependency Graph",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Generates a graph of the relationships between assets and lets you query it. Unity's built-in AssetDatabase only allows for querying what an asset depends on, but not what depends on it. This package fills that gap.",
+  "category": "",
+  "dependencies":
+  {
+  }
+}
